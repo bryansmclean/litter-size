@@ -1,5 +1,5 @@
 # litter-size
-Code from small mammal litter size projects, including but not limited to:
+Code from small mammal litter size projects, including:
 
 @article{mclean2019evolution,
   title={Evolution of litter size in North America’s most common small mammal: an informatics-based approach},
