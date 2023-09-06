@@ -1,6 +1,6 @@
 ## README
 
-# This repository contains data and code from the following study of litter size variation in North American small mammals.
+# This repository contains data and code from a study of litter size variation in North American small mammals.
 
 # REFERENCES
 # Weller AK, Chapman OS, Gora SL, Guralnick RP, McLean BS. 2023. New insight into drivers of mammalian litter size from individual-level traits. Ecography in press.
